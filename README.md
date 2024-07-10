@@ -38,7 +38,7 @@ pnpm lint
 
 ### 1. Create project in local and setup as mentioned in above steps
 
-### 2. 
+### 2. Execute the commands serially
 
 ```sh
 git init
